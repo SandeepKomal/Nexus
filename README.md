@@ -37,4 +37,6 @@ docker exec nexus cat /nexus-data/admin.password
   </repository>
 ```
 
+##### note : replace the url with the specific url ine above scripts
+
 
