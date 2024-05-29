@@ -10,7 +10,7 @@ docker run -d -p 8081:8081 --name nexus sonatype/nexus3c
 ```
 docker exec nexus cat /nexus-data/admin.password
 ```
-#### you can acess the nexus on http://publicip of server :8081 
+#### you can acess the nexus on " http://publicip of server :8081 "
 
 ### Place these below script in the pom.xml file 
 
